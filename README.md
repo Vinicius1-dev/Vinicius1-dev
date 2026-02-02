@@ -26,7 +26,7 @@ Estudante apaixonado por tecnologia, focado em análise de dados e inteligência
 - 💡 Desenvolvendo projetos pessoais em Python
 
 ### 📫 Como me encontrar
-- 💼 [LinkedIn](seu-link-linkedin)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-alves-silva-b666b6364?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHc57p%2FP6TUa%2FFLd0Qri8kg%3D%3D)
 - 📍 Biquinhas, MG | Disponível para trabalho remoto
 
 ---
