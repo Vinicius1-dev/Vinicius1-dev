@@ -66,7 +66,7 @@ Sou estudante de **Ciência de Dados** e desenvolvedor **Python** iniciante, apa
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github.com/Vinicius1-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
