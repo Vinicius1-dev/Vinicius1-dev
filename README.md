@@ -58,14 +58,6 @@ Sou estudante de **Ciência de Dados** e desenvolvedor **Python** iniciante, apa
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vinicius1-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 🚀 Projetos em Destaque
 
 - 🐍 **Jogo da Cobrinha** - Game clássico desenvolvido em Python com Pygame
