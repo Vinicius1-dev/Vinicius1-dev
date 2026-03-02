@@ -1,34 +1,47 @@
-# Olá! 👋 Eu sou o Vinicius
+# Olá, eu sou Vinicius Alves Silva 👋
 
-## 🐍 Desenvolvedor Python | Ciência de Dados & IA
+Sou estudante de Ciência de Dados e desenvolvedor Python iniciante, apaixonado por tecnologia e análise de dados.
 
-Estudante apaixonado por tecnologia, focado em análise de dados e inteligência artificial.
-
-### 🎓 Formação
-- 📚 Pós-graduação em Ciência de Dados (Coursera)
-- 🏆 Certificado Google - Python
-- 🏆 Certificado IBM - Python for Data Science, AI & Development
-
-### 💻 Tecnologias
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-### 📊 Áreas de Interesse
-- 🤖 Machine Learning
-- 📈 Análise de Dados
-- 🧠 Inteligência Artificial
-- 📉 Visualização de Dados
-
-### 🎯 Atualmente
-- 🔭 Buscando oportunidades de estágio em desenvolvimento
-- 🌱 Aprendendo Data Science e ML
-- 💡 Desenvolvendo projetos pessoais em Python
-
-### 📫 Como me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-alves-silva-b666b6364?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHc57p%2FP6TUa%2FFLd0Qri8kg%3D%3D)
-Disponível para trabalho remoto
+🎯 **Atualmente:**
+- 📚 Cursando pós-graduação em Ciência de Dados
+- 🐍 Desenvolvendo projetos em Python
+- 💻 Aprendendo análise de dados com pandas e numpy
+- 🎮 Criando jogos com Pygame
 
 ---
 
-⭐️ "A tecnologia move o mundo, e eu quero fazer parte dessa transformação!"
+## 🛠️ Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Vinicius' GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+
+---
+
+## 🚀 Projetos em Destaque
+
+- 🐍 **Jogo da Cobrinha** - Game clássico desenvolvido em Python
+- 🧮 **Calculadora Web** - Interface web com HTML/CSS/JS
+- 📊 **Análise de Dados** - Scripts Python para análise com pandas
+
+---
+
+## 📫 Como me encontrar
+
+- 💼 LinkedIn: [linkedin.com/in/vinicius-alves-silva-b666b6364](https://linkedin.com/in/vinicius-alves-silva-b666b6364)
+- 📧 Email: viniciuscleberalves@gmail.com
+- 🌐 Portfólio: [em breve]
+
+---
+
+⚡ **Curiosidade:** Gosto de resolver bugs de madrugada! 🌙💻
