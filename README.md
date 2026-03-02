@@ -22,7 +22,6 @@ Sou estudante de **Ciência de Dados** e desenvolvedor **Python** iniciante, apa
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
-  <!-- Linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -33,16 +32,12 @@ Sou estudante de **Ciência de Dados** e desenvolvedor **Python** iniciante, apa
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
-  
-  <!-- Ferramentas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
-  
-  <!-- Bibliotecas Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
@@ -53,12 +48,12 @@ Sou estudante de **Ciência de Dados** e desenvolvedor **Python** iniciante, apa
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius1-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius1-dev&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius1-dev&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
@@ -66,7 +61,7 @@ Sou estudante de **Ciência de Dados** e desenvolvedor **Python** iniciante, apa
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github.com/Vinicius1-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vinicius1-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -110,7 +105,7 @@ Sou estudante de **Ciência de Dados** e desenvolvedor **Python** iniciante, apa
 ## 📈 Profile Views
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Vinicius1-dev&color=blue&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
