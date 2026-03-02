@@ -90,7 +90,7 @@ Sou estudante de **Ciência de Dados** e desenvolvedor **Python** iniciante, apa
 
 📧 **Email:** viniciuscleberalves@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/vinicius-alves-silva-b666b6364](https://linkedin.com/in/vinicius-alves-silva-b666b6364)  
-🌐 **Portfólio:** Em desenvolvimento
+🌐 **Portfólio:** https://vinicius1-dev.github.io/
 
 ---
 
