@@ -43,21 +43,6 @@ Sou estudante de **Ciência de Dados** e desenvolvedor **Python** iniciante, apa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius1-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius1-dev&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinicius1-dev&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🚀 Projetos em Destaque
 
 - 🐍 **Jogo da Cobrinha** - Game clássico desenvolvido em Python com Pygame
@@ -93,15 +78,6 @@ Sou estudante de **Ciência de Dados** e desenvolvedor **Python** iniciante, apa
 🌐 **Portfólio:** https://vinicius1-dev.github.io/
 
 ---
-
-## 📈 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vinicius1-dev&color=blue&style=flat-square" alt="Profile Views" />
-</div>
-
----
-
 ⚡ **Curiosidade:** Gosto de resolver bugs de madrugada! 🌙💻
 
 💬 **"Consistência é a chave para o sucesso!"**
